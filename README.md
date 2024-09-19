@@ -6,12 +6,24 @@ Follow me on my socials https://linktr.ee/kretz1xD
 This will help you with fps, latency and audio.
 First of all I must say that you should try this OS
 
-- Useful guides below including Memory Cleaner which clears your memory, i suggest that you press "F10" when you load into a game ![xD](https://i.imgur.com/4vLIkwu.png)
+## Useful Optimization Guides
 
-[ReviOS](https://www.revi.cc/revios)
+### Memory Cleaner
+Press "F10" when you load into a game to clear your memory for smoother performance.  
+![Memory Cleaner](https://i.imgur.com/4vLIkwu.png)  
+[Download Memory Cleaner](https://mega.nz/file/LfJFlTDK#CB3fPPC14C4Jf3dpY9rDXdbdjEgFD3cDKSwKT14UoRY)
 
-[A slightly better way to overclock and tweak your Nvidia GPU](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/edit)
+---
 
-[Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
+### [ReviOS](https://www.revi.cc/revios)  
+A lightweight and performance-tuned version of Windows designed to reduce latency and stutters in games.
 
-[Memory Cleaner](https://mega.nz/file/LfJFlTDK#CB3fPPC14C4Jf3dpY9rDXdbdjEgFD3cDKSwKT14UoRY)
+---
+
+### [A Better Way to Overclock and Tweak Your Nvidia GPU](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/edit)  
+Step-by-step guide on safely overclocking your Nvidia GPU for better performance in Apex Legends.
+
+---
+
+### [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)  
+Optimize your system for the lowest possible latency to gain a competitive edge.
